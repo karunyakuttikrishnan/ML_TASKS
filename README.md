@@ -3,7 +3,7 @@
 Hi,
 The above repository has a files each one of which is an implementation of the following machine learning concepts</br>
 1. Outlier Detection and removal using : </br>
-        Mean Function</br>
+        &ensp Mean Function</br>
         <&nbsp>Percentile method</br>
         &nbspIQR(Inter quartile range method)</br>
         &nbspNormal distribution</br>
