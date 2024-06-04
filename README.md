@@ -3,11 +3,11 @@
 Hi,
 The above repository has a files each one of which is an implementation of the following machine learning concepts</br>
 1. Outlier Detection and removal using : </br>
-  Mean Function</br>
-  Percentile method</br>
-  IQR(Inter quartile range method)</br>
-  Normal distribution</br>
-  Zscore method</br>
+        Mean Function</br>
+        Percentile method</br>
+        IQR(Inter quartile range method)</br>
+        Normal distribution</br>
+        Zscore method</br>
 2.Hypothesis Testing</br>
 3.Data preprocessing using:</br>
   Data Exploration</br>
