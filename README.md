@@ -8,20 +8,20 @@ The above repository has a files each one of which is an implementation of the f
 •	IQR(Inter quartile range method)</br>
 •	Normal distribution</br>
 •	Zscore method</br>
-2.Hypothesis Testing</br>
-3.Data preprocessing using:</br>
+2. Hypothesis Testing</br>
+3. Data preprocessing using:</br>
 •	Data Exploration</br>
 •	Data Cleaning</br>
 •	Data Analysis</br>
 •	Data Encoding</br>
 •	Feature Scaling</br>
-4.Regression :</br>
+4. Regression :</br>
 •	Linear Regression</br>
 •	Decision Tree Regressor</br>
 •	Random Forest Regressor</br>
 •	Gradient Boosting Regressor</br>
 •	Support Vector Regressor</br>
-5.Classification and clustering</br>
+5. Classification and clustering</br>
 •	Logistic Regression
 •	Decision Tree Classifier
 •	Random Forest Classifier
