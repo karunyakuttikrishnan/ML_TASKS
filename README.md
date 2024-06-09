@@ -22,5 +22,11 @@ The above repository has a files each one of which is an implementation of the f
 •	Gradient Boosting Regressor</br>
 •	Support Vector Regressor</br>
 5.Classification and clustering</br>
-  
+•	Logistic Regression
+•	Decision Tree Classifier
+•	Random Forest Classifier
+•	Gradient Boosting Classifier
+•	Support Vectore Classifier
+•	K-Means Clustering
+
   
