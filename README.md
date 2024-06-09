@@ -1,7 +1,7 @@
 # ML_TASKS
 
 Hi,
-The above repository has a files each one of which is an implementation of the following machine learning concepts</br>
+The above repository has set of files each one of which is an implementation of the following machine learning concepts</br>
 1. Outlier Detection and removal using : </br>
 •	Mean Function</br>
 •	Percentile method</br>
